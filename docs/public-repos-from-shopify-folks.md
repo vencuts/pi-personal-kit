@@ -73,6 +73,17 @@ How it was built: public members of the Shopify GitHub org, each member's public
 | [NickLewanowicz/slate](https://github.com/NickLewanowicz/slate) | Android home-screen widget for AI agents: push status, ask questions |
 | [Soleone/agent-memory](https://github.com/Soleone/agent-memory) | Global and project-scoped memory |
 
+## Design skills (not Shopify authors, but the ones installed and used daily)
+
+| Repo | What it is |
+|---|---|
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design language that makes an AI harness better at design: `/impeccable` critique, polish, distill, harden, animate. ★80k |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Source of `design-taste-frontend`, `high-end-visual-design`, `minimalist-ui`, `industrial-brutalist-ui`, `redesign-existing-projects`, plus brandkit, image-to-code, stitch. ★95k |
+| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | DESIGN.md: a format for describing a visual identity to coding agents. What `designmd` extracts into. ★28k |
+| [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) | Dark-themed system architecture diagrams as standalone HTML/SVG. Source of `architecture-diagram`. ★7.4k |
+| [h3nryprod01/design-taste](https://github.com/h3nryprod01/design-taste) | Merged synthesis of emilkowalski/skill, impeccable and others into one taste skill. ★73 |
+| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Large skills catalog and local control plane; carries copies of the UI skills above. ★47k |
+
 ## Fun and tangents
 
 | Repo | What it is |
