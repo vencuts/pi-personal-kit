@@ -19,7 +19,7 @@ Then `/reload` in Pi.
 | `extensions/think-deeply.ts` | Typing "think deeply" in a prompt bumps the thinking level for that turn. |
 | `extensions/zmux` | Tools for a zmux terminal multiplexer socket (`ZMUX_SOCKET_PATH`). Only useful if you run zmux. |
 | `themes/zmux.json` | Dark indigo/cyan theme. |
-| `docs/` | [Public repos from Shopify folks](docs/public-repos-from-shopify-folks.md): a curated reading list, plus the [full 395-repo scan](docs/shopify-public-repos-full-scan-2026-10-13.md). |
+| `docs/` | [Public repos from Shopify folks](docs/public-repos-from-shopify-folks.md): a curated reading list, plus the [full 395-repo scan](docs/shopify-public-repos-full-scan-2026-10-13.md). Also [portfolio site recommendations](docs/portfolio-site-recommendations.md). |
 | `prompts/no-agree.md` | `/no-agree`: forces the strongest counterargument, fragile assumption, and alternative before any recommendation. |
 
 ## Not included on purpose
